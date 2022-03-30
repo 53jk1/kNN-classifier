@@ -21,5 +21,3 @@ Najlepszym atrybutem klasyfikatora KNN jest jego względna prostota. Nie jest on
 # Wyniki:
 
 Testując szereg wartości k, model konsekwentnie uzyskuje wynik powyżej 92%, ale waha się wokół średniej 94%.  Najlepszy wynik wyniósł 97% przy 'k = 7', co oznacza, że nowy punkt danych jest porównywany z siedmioma najbliższymi sąsiadami. Można to jeszcze dopracować, ale jestem zadowolony z tych wyników. Dalszym usprawnieniem byłaby wizualizacja modelu, ale to może być trudne w przypadku danych wielowymiarowych.  
-
-Przetłumaczono z www.DeepL.com/Translator (wersja darmowa)
